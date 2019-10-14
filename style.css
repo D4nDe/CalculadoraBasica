@@ -1,0 +1,12 @@
+.botao {
+    width: 49px;
+    height: 49px;
+    background: #666;
+    color: #FFF;
+    font-size: 30px;
+}
+
+.visor {
+    font-size: 1.5em;
+    color: red;
+}
